@@ -1,4 +1,4 @@
-# Web Engineering 2021-2022 / services
+# Web Engineering 2021-2022 / microservices
 
 **In this assignment your PR must only modify the `README.md` file**. Please, go to
 the [Wiki](https://github.com/UNIZAR-30246-WebEngineering/lab6-services/wiki) in order to get the instructions for this
