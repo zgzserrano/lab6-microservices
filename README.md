@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| 774840 | Fernando Serrano | [report](https://github.com/Feer93/lab6-microservices/blob/test/documentation.md) |             |       |
