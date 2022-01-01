@@ -53,3 +53,4 @@ by a PR so other fellow can try it.
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
 |     |           |      |             |       |
+| 757166  | Pablo Jordan | [Primary Goal](https://github.com/pabloJordan24/lab6-microservices/blob/test/PrimaryGoal/PrimaryGoal.md) |             |       |
