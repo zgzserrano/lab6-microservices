@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| 778148 | José Marín | [report](https://github.com/jmarindiez/lab6-microservices/blob/test/docs/report.md) |             |       |
