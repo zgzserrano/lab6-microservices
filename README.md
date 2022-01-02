@@ -53,3 +53,4 @@ by a PR so other fellow can try it.
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
 |     |           |      |             |       |
+|778097| Héctor Bara |  [Solution](https://github.com/dolansete/lab6-microservices/blob/test/report.md)    |             |       |
