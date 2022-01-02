@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+|   755232 | Diego Marco | [report](https://github.com/dmarcob/lab6-microservices/blob/test/report.md) |
