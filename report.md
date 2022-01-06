@@ -45,7 +45,7 @@ As it is shown, there are 2 `ACCOUNTS-SERVICE` available.
 ## What happens when you kill the service with port 2222. Can the web service provide information about the accounts? Why?
 
 After killing the account service in 2222, the corresponding service disappears from Eureka:
-![Eureka_dashboard_2222_killed](img/4-eureka_dashboard_kill.png)
+![Eureka_dashboard_2222_killed](img/servicios_eureka_after_kill.png)
 
 It takes some time to reconfigure. After that, you can ask information to the web service about
 the accounts without producing any `500: Internal Server Error` (it is caused while Eureka still redirects to the dead
