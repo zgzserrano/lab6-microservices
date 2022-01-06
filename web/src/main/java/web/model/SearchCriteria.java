@@ -61,7 +61,6 @@ public class SearchCriteria {
 
     @Override
     public String toString() {
-        // TODO Auto-generated method stub
         return (StringUtils.hasText(accountNumber) ? "number: " + accountNumber
                 : "")
                 + (StringUtils.hasText(searchText) ? " text: " + searchText
