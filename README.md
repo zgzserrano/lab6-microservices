@@ -68,3 +68,4 @@ by a PR so other fellow can try it.
 | 734941 | Felipe Nonay|[LAB6_Solution](https://github.com/fnonay/lab6-microservices/blob/test/SOLUTION.md)|
 | 720162 | Salomé Rea| [report](https://github.com/SalomeReav/lab6-microservices/blob/test/report.md)  |             |       |
 | 780180 | [Carlos Navarro](https://github.com/Lulay7/lab6-microservices) | [report](https://github.com/Lulay7/lab6-microservices/blob/c295e1f8973ff123815377bd1588a0e2f23034c0/report/report.md) |             |       |
+| 775929 | [Alejandro Artal](https://github.com/Alejandro-Artal/lab6-microservices/tree/test)| [Report](https://github.com/Alejandro-Artal/lab6-microservices/blob/test/report.md) |      |             |
