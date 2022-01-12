@@ -62,3 +62,4 @@ by a PR so other fellow can try it.
 | 767870 | Diego García Muro | [report](https://github.com/thdgm/lab6-microservices/blob/test/ReportMD/ReportMD.md)  |             |       |
 | 780448 | María Peña | [Report](https://github.com/Keyleth8/lab6-microservices/blob/test/Solution.md) |             |       |
 | 779354 |Alejandro Magallón Soler|[Report](https://github.com/alecron/lab6-microservices/blob/test/Report.md)      |             |       |
+| 780378 | Óscar Pueyo | [report](https://github.com/iksopo/lab6-microservices/blob/test/doc/report.md) |             |       |
