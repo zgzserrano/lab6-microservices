@@ -56,3 +56,4 @@ by a PR so other fellow can try it.
 | 755232 | Diego Marco | [report](https://github.com/dmarcob/lab6-microservices/blob/test/report.md) |
 |778097| Héctor Bara |  [Solution](https://github.com/dolansete/lab6-microservices/blob/test/report.md)    |             |       |
 | 778148 | José Marín | [report](https://github.com/jmarindiez/lab6-microservices/blob/test/docs/report.md) |             |       |
+| 774840 | [Fernando Serrano](https://github.com/Feer93/lab6-microservices) | [report](https://github.com/Feer93/lab6-microservices/blob/test/documentation.md) |             |       |
