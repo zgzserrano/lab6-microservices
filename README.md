@@ -61,5 +61,6 @@ by a PR so other fellow can try it.
 | 785649 | [Andoni Salcedo](https://github.com/AndoniSalcedo/lab6-microservices) | [report.md](https://github.com/AndoniSalcedo/lab6-microservices/blob/test/report.md) | | |
 | 767870 | Diego García Muro | [report](https://github.com/thdgm/lab6-microservices/blob/test/ReportMD/ReportMD.md)  |             |       |
 | 780448 | María Peña | [Report](https://github.com/Keyleth8/lab6-microservices/blob/test/Solution.md) |             |       |
-| 779354 |Alejandro Magallón Soler|[Report](https://github.com/alecron/lab6-microservices/blob/test/Report.md)      |             |       |
+| 779354 | Alejandro Magallón Soler|[Report](https://github.com/alecron/lab6-microservices/blob/test/Report.md)      |             |       |
 | 780378 | Óscar Pueyo | [report](https://github.com/iksopo/lab6-microservices/blob/test/doc/report.md) |             |       |
+| 774335 | Ángela Rojo | [Report](https://github.com/angela-rs/lab6-microservices/blob/work/report.md) |             |       |
