@@ -71,3 +71,4 @@ by a PR so other fellow can try it.
 | 775929 | [Alejandro Artal](https://github.com/Alejandro-Artal/lab6-microservices/tree/test)| [Report](https://github.com/Alejandro-Artal/lab6-microservices/blob/test/report.md) |      |             |
 | 776012 | Jaime Conchello | [report](https://github.com/jaimecb/lab6-microservices/blob/test/report.md) |             |       |
 | 755787 | Sergio Benítez Mombiela | [report](https://github.com/SergioBenitez755787/lab6-microservices/blob/test/Solution/report.md) |             |       |
+| 771069 |[Alejandro Terron](https://github.com/Alex28499/lab6-microservices/tree/work) |[Report](https://github.com/Alex28499/lab6-microservices/blob/work/report.md)|             |       |
