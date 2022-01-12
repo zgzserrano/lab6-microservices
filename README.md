@@ -64,3 +64,4 @@ by a PR so other fellow can try it.
 | 779354 | Alejandro Magallón Soler|[Report](https://github.com/alecron/lab6-microservices/blob/test/Report.md)      |             |       |
 | 780378 | Óscar Pueyo | [report](https://github.com/iksopo/lab6-microservices/blob/test/doc/report.md) |             |       |
 | 774335 | Ángela Rojo | [Report](https://github.com/angela-rs/lab6-microservices/blob/work/report.md) |             |       |
+| 780454 | Marta Morales Sabroso|[Solution](https://github.com/780454-unizar/lab6-microservices/blob/test/solution.md)      |             |       |
