@@ -58,3 +58,4 @@ by a PR so other fellow can try it.
 | 778148 | José Marín | [report](https://github.com/jmarindiez/lab6-microservices/blob/test/docs/report.md) |             |       |
 | 774840 | [Fernando Serrano](https://github.com/Feer93/lab6-microservices) | [report](https://github.com/Feer93/lab6-microservices/blob/test/documentation.md) |             |       |
 | 755848 | Guillermo Cánovas González | [Report](https://github.com/guillecanovas/lab6-microservices/blob/test/report.md)
+| 785649 | [Andoni Salcedo](https://github.com/AndoniSalcedo/lab6-microservices) | [report.md](https://github.com/AndoniSalcedo/lab6-microservices/blob/test/report.md) | | |
